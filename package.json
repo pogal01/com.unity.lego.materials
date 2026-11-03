@@ -1,9 +1,9 @@
 {
   "name": "com.unity.lego.materials",
   "displayName": "LEGO Materials",
-  "version": "3.0.1",
-  "unity": "2021.2",
-  "unityRelease": "7f1",
+  "version": "3.0.2",
+  "unity": "2022.3",
+  "unityRelease": "62f2",
   "description": "A complete library of all past and current LEGO Materials used in the physical sets.",
   "dependencies": {
     "com.unity.render-pipelines.universal": "12.1.2"
